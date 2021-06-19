@@ -1,0 +1,30 @@
+{
+  "name": "obsidian-stable-graph",
+  "version": "0.1.0",
+  "description": "A less-wobbly graph plugin for Obsidian",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianjsikes/obsidian-stable-graph.git"
+  },
+  "keywords": [
+    "obsidian"
+  ],
+  "author": "Ian J Sikes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianjsikes/obsidian-stable-graph/issues"
+  },
+  "homepage": "https://github.com/ianjsikes/obsidian-stable-graph#readme",
+  "dependencies": {
+    "d3": "^7.0.0",
+    "md5": "^2.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-spring": "^9.2.3",
+    "seedrandom": "^3.0.5"
+  }
+}
